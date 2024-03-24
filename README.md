@@ -1,15 +1,25 @@
-### Hi there 👋
+![Learn & Create](https://media.licdn.com/dms/image/D5603AQFLPJiM18niAQ/profile-displayphoto-shrink_800_800/0/1708008653155?e=1717027200&v=beta&t=dFmxNFtXYWHNR2fnxkyvVLILobRqkJVBorW4Xg3If7w)
+
+### Hi there 👋, I am Tasbi Rafat
+#### Learn & Create
+I am a dedicated and hardworking individual who is passionate about learning and growing in my career. I am always seeking new challenges and opportunities to develop my abilities and make a positive impact in the workplace.
+
+Skills: Python | Microsoft Excel | Power BI | Analysis
+
+- 🔭 I’m currently working on Analysis 
+- 🌱 I’m currently learning Data Analytics 
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/tasbi-rafat-9bb295194/ 
 
 
-**TasbiRafat/TasbiRafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TasbiRafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tasbi Rafat/)  
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=TasbiRafat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasbiRafat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TasbiRafat&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TasbiRafat)  
+
