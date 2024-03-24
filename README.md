@@ -1,14 +1,16 @@
-![Learn & Create](https://media.licdn.com/dms/image/D5603AQFLPJiM18niAQ/profile-displayphoto-shrink_800_800/0/1708008653155?e=1717027200&v=beta&t=dFmxNFtXYWHNR2fnxkyvVLILobRqkJVBorW4Xg3If7w)
-
 ### Hi there 👋, I am Tasbi Rafat
 #### Learn & Create
+
 I am a dedicated and hardworking individual who is passionate about learning and growing in my career. I am always seeking new challenges and opportunities to develop my abilities and make a positive impact in the workplace.
 
-Skills: Python | Microsoft Excel | Power BI | Analysis
+Skills: ✅ Python
+        ✅ Microsoft Excel 
+        ✅ Power BI
+        ✅ Analysis
 
-- 🔭 I’m currently working on Analysis 
-- 🌱 I’m currently learning Data Analytics 
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/tasbi-rafat-9bb295194/ 
+- 🔰 I’m currently working on Analysis 
+- 🔰 I’m currently learning Data Analytics 
+- 🔰 How to reach me: LinkedIn - https://www.linkedin.com/in/tasbi-rafat-9bb295194/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TasbiRafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tasbi Rafat/)  
