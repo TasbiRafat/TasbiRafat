@@ -1,4 +1,3 @@
-![image](https://github.com/TasbiRafat/TasbiRafat/assets/64586380/c55e576e-52b9-4ee6-a5ba-ada0dd4d582b)
 
 ### Hi there 👋, I am Tasbi Rafat
 #### Learn & Create
