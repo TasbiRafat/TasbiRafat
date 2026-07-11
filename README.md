@@ -2,7 +2,7 @@
 ### Hi there!
 #### Learn & Create
 
-I am always seeking opportunities to learn, develop, and grow in my career. 
+I am always seeking opportunities to learn, develop, and grow. 
 
 Skills: ✅ Business Analysis
         ✅ Confluence
