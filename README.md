@@ -4,11 +4,13 @@
 
 I am always seeking opportunities to learn, develop, and grow. 
 
-Skills: ✅ Business Analysis
-        ✅ Confluence
-        ✅ Quality Assurance
-        ✅ Microsoft Excel 
-        ✅ Power BI
+Skills:
+
+✅ Business Analysis
+✅ Confluence
+✅ Quality Assurance
+✅ Microsoft Excel 
+✅ Power BI
         
 - 🔰 I’m currently working as a Business Systems Analyst
 - 🔰 I’m currently learning different components of Analytics 
