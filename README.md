@@ -1,18 +1,18 @@
 
-### Hi there 👋, I am Tasbi Rafat
+### Hi there!
 #### Learn & Create
 
-I am a dedicated and hardworking individual who is passionate about learning and growing in my career. I am always seeking new challenges and opportunities to develop my abilities and make a positive impact in the workplace.
+I am always seeking opportunities to learn, develop, and grow in my career. 
 
-Skills: ✅ Python
+Skills: ✅ Business Analysis
+        ✅ Confluence
+        ✅ Quality Assurance
         ✅ Microsoft Excel 
         ✅ Power BI
-        ✅ Analysis
-
-- 🔰 I’m currently working on Analysis 
-- 🔰 I’m currently learning Data Analytics 
+        
+- 🔰 I’m currently working as a Business Systems Analyst
+- 🔰 I’m currently learning different components of Analytics 
 - 🔰 How to reach me: LinkedIn - https://www.linkedin.com/in/tasbi-r-332031315/
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TasbiRafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][(https://www.linkedin.com/in/Tasbi Rafat/](https://www.linkedin.com/in/tasbi-r-332031315/))  
 
